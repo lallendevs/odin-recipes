@@ -1,0 +1,19 @@
+img {
+    width: 500px;
+    padding-bottom: 20px;
+}
+
+a {
+  display: block;        /* forces link onto its own line */
+  margin-bottom: 1rem;   /* space between link and image */
+}
+
+body {
+  margin-left: 4%;
+  margin-right: 4%;
+  line-height: 1.5;
+}
+
+h1, h2, h3 {
+    line-height: 1.0;
+}
